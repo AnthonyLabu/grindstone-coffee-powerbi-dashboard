@@ -13,7 +13,7 @@ How is Grindstone Coffee Co. performing across locations, products, and time per
 
 ### Key Insights & Recommendations
 - Revenue grew strongly from $76K in January to $167K in June
-- Average Order Value is only $4.70 — a clear opportunity for upselling and combo deals
+- Average Order Value is only $4.70, a clear opportunity for upselling and combo deals
 - Orders peak between 8–11 am, making this the ideal window to promote higher-margin items
 - The three main locations perform almost equally, with no single weak store
 - Coffee dominates revenue, with large sizes and organic/specialty products leading the top sellers
