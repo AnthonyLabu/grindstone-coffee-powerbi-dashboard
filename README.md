@@ -28,13 +28,8 @@ Delivered a clear, stakeholder-ready dashboard that highlights practical actions
 
 ### Dashboard Screenshots
 
-**Overview Page**  
-![Overview](Screenshot%202026-07-29%20144434.png)
-
-**Product Insights**  
-![Products](Screenshot%202026-07-29%20144458.png)
-
-**Time & Operations**  
-![Time](Screenshot%202026-07-29%20144511.png)
+![Overview](./Screenshot%202026-07-29%20144434.png)
+![Products](./Screenshot%202026-07-29%20144458.png)
+![Time](./Screenshot%202026-07-29%20144511.png)
 
 
